@@ -1,0 +1,6 @@
+{
+  "name": "ProjectVerse",
+  "description": "Personal developer project portfolio, digital project folder manager, and private admin CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
